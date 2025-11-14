@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/oumayma metoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oumayma metoui" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oumayma-metoui-1413661b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oumayma metoui" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/oumayma metoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="oumayma metoui" height="30" width="40" /></a>
 <a href="https://fb.com/oumaa yyma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oumaa yyma" height="30" width="40" /></a>
 <a href="https://instagram.com/iamoumayyma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamoumayyma" height="30" width="40" /></a>
